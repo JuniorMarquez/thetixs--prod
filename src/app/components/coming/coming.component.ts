@@ -13,7 +13,7 @@ export class ComingComponent implements OnInit {
 
   ngOnInit() {
   	$('.countdown').downCount({
-				date: '11/09/2019 12:00:00',
+				date: '09/11/2019 12:00:00',
 				offset: +10
 			}, function () {
 				alert('WOOT WOOT, done!');
