@@ -12,3 +12,8 @@ export { ComingComponent } from "./coming/coming.component";
 export { AlltixsComponent } from "./alltixs/alltixs.component";
 export { PartnerComponent } from "./new-member/partner/partner.component";
 export { AffiliateComponent } from "./new-member/affiliate/affiliate.component";
+export { ProfileComponent } from "./profile/profile.component";
+export { AddtixsComponent } from "./addtixs/addtixs.component";
+export { BookingComponent } from "./booking/booking.component";
+export { AlltixslistComponent } from "./alltixslist/alltixslist.component";
+export { AlltixsleftComponent } from "./alltixsleft/alltixsleft.component";

@@ -75,6 +75,10 @@ import { ComingComponent } from './components/coming/coming.component';
 import { AffiliateComponent } from './components/new-member/affiliate/affiliate.component';
 import { PartnerComponent } from './components/new-member/partner/partner.component';
 import { ProfileComponent } from './components/profile/profile.component';
+import { AddtixsComponent } from './components/addtixs/addtixs.component';
+import { BookingComponent } from './components/booking/booking.component';
+import { AlltixslistComponent } from './components/alltixslist/alltixslist.component';
+import { AlltixsleftComponent } from './components/alltixsleft/alltixsleft.component';
 
 
 
@@ -104,7 +108,11 @@ import { ProfileComponent } from './components/profile/profile.component';
     ComingComponent,
     AffiliateComponent,
     PartnerComponent,
-    ProfileComponent
+    ProfileComponent,
+    AddtixsComponent,
+    BookingComponent,
+    AlltixslistComponent,
+    AlltixsleftComponent
   ],
   imports: [
     BrowserModule,
