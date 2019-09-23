@@ -1,11 +1,11 @@
 {
-  "name": "thetixs",
-  "short_name": "thetixs",
+  "name": "The tixs",
+  "short_name": "The tixs",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "fullscreen",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://www.thetixs.com",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
