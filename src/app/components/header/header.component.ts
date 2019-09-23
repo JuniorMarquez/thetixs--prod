@@ -70,7 +70,7 @@ submitted = false;
         }
       });
      }   
-     // this.router.navigate(['/coming']);
+     this.router.navigate(['/coming']);
   }
 
     onRegister(): void{
